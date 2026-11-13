@@ -1,0 +1,42 @@
+[
+  {
+    "source_id": "blld-vbhn125-2025",
+    "title": "Văn bản hợp nhất số 125/VBHN-VPQH năm 2025 — Bộ luật Lao động (hợp nhất Bộ luật Lao động số 45/2019/QH14 và các luật sửa đổi)",
+    "law_name": "bo-luat-lao-dong",
+    "issuer": "Văn phòng Quốc hội (văn bản hợp nhất); Quốc hội (văn bản gốc 45/2019/QH14)",
+    "file": "starter/data/blld-vbhn125-2025.pdf",
+    "source_path_or_url": "https://static.luatvietnam.vn/xem-noi-dung-file-van-ban-hop-nhat-125-vbhn-vpqh-nam-2025-do-van-phong-quoc-hoi-ban-hanh-hop-nhat-bo-luat-lao-dong-410920-d5/uploaded/vietlawfile/2025/9/125_vbhn_vpqh_2025_110925084034.pdf.aspx",
+    "landing_page": "https://luatvietnam.vn/lao-dong/van-ban-hop-nhat-125-vbhn-vpqh-nam-2025-do-van-phong-quoc-hoi-ban-hanh-hop-nhat-bo-luat-lao-dong-410920-d5.html",
+    "license_or_permission": "Văn bản quy phạm pháp luật/văn bản hợp nhất của cơ quan nhà nước — không thuộc đối tượng bảo hộ quyền tác giả (Điều 15 khoản 2 Luật Sở hữu trí tuệ). File PDF lấy từ trang lưu trữ bên thứ ba (luatvietnam.vn) nên chỉ dùng nội dung văn bản, không dùng phần biên tập của trang.",
+    "accessed_at": "2026-11-13",
+    "version": "Văn bản hợp nhất 125/VBHN-VPQH (2025). Trang 1 của PDF ghi: Bộ luật số 45/2019/QH14 ngày 20/11/2019, có hiệu lực từ 01/01/2021, được sửa đổi, bổ sung bởi Luật số 71/2025/QH15, có hiệu lực từ 01/01/2026.",
+    "pdf_metadata": "Producer: iLovePDF; iTextSharp 5.5.9; ModDate 2025-08-27",
+    "counted_pages": "1-85",
+    "excluded_pages": {
+      "86": "Trang cuối gồm phần đuôi chú thích hợp nhất và phần xác thực (nơi nhận, chữ ký Chủ nhiệm VPQH). Toàn bộ text trích ra bị lỗi font (vi_ratio = 0.00, ví dụ 'lao d{>ng ma Ban tr9ng tai'), không đọc được nên không tính; chưa OCR"
+    },
+    "known_issues": [
+      "Text layer tách sai khoảng trắng bên trong từ ở nhiều trang (ví dụ 'lao đ ộng', 'c ủa', 'vi ệc'). Xem cột split_words trong results/inspect_blld-vbhn125-2025.txt. Khi so khớp evidence cần chuẩn hóa (bỏ khoảng trắng) và ghi đây là giới hạn của dữ liệu.",
+      "Văn bản hợp nhất có chú thích cuối trang về căn cứ sửa đổi; chú thích này nằm lẫn vào text của trang."
+    ]
+  },
+  {
+    "source_id": "luat-bhxh-41-2024",
+    "title": "Luật Bảo hiểm xã hội số 41/2024/QH15",
+    "law_name": "luat-bao-hiem-xa-hoi",
+    "issuer": "Quốc hội",
+    "file": "starter/data/luat-bhxh-41-2024.pdf",
+    "source_path_or_url": "https://baohiemxahoi.gov.vn:4545/File_Server_BHXH/documents/Luat%20BHXH%202024.pdf",
+    "landing_page": "https://baohiemxahoi.gov.vn/vanban/Pages/default.aspx?ItemID=4973",
+    "license_or_permission": "Văn bản quy phạm pháp luật — không thuộc đối tượng bảo hộ quyền tác giả (Điều 15 khoản 2 Luật Sở hữu trí tuệ). File tải từ Cổng thông tin điện tử Bảo hiểm xã hội Việt Nam (cơ quan nhà nước).",
+    "accessed_at": "2026-11-13",
+    "version": "Văn bản gốc, ký ngày 29/6/2024. Trang 66 của PDF ghi: Luật có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025. Đây là bản gốc, chưa gồm các luật sửa đổi về sau.",
+    "pdf_metadata": "Creator: Microsoft Word 2016; CreationDate 2024-07-23",
+    "counted_pages": "1-68",
+    "excluded_pages": {},
+    "known_issues": [
+      "Trang 68 có phần chữ ký (Chủ tịch Quốc hội) ở cuối nhưng phần đầu trang vẫn là nội dung Điều về quy định chuyển tiếp nên trang vẫn được tính.",
+      "Trang 1 có quốc hiệu/tiêu ngữ trước nội dung Chương I."
+    ]
+  }
+]

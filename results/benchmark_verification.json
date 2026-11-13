@@ -1,0 +1,215 @@
+{
+  "summary": {
+    "total": 20,
+    "dev": 15,
+    "test": 5,
+    "filter_questions": 4,
+    "filter_in_test": 2,
+    "evidence_exact": 18,
+    "evidence_nospace_only": 2
+  },
+  "errors": [],
+  "questions": [
+    {
+      "id": "q01",
+      "split": "dev",
+      "gold": [
+        "blld-vbhn125-2025:p2"
+      ],
+      "evidence_match": "exact",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q02",
+      "split": "dev",
+      "gold": [
+        "blld-vbhn125-2025:p11"
+      ],
+      "evidence_match": "exact",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q03",
+      "split": "dev",
+      "gold": [
+        "blld-vbhn125-2025:p11"
+      ],
+      "evidence_match": "exact",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q04",
+      "split": "dev",
+      "gold": [
+        "blld-vbhn125-2025:p14"
+      ],
+      "evidence_match": "exact",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q05",
+      "split": "dev",
+      "gold": [
+        "blld-vbhn125-2025:p41"
+      ],
+      "evidence_match": "exact",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q06",
+      "split": "dev",
+      "gold": [
+        "blld-vbhn125-2025:p41"
+      ],
+      "evidence_match": "exact",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q07",
+      "split": "dev",
+      "gold": [
+        "blld-vbhn125-2025:p41"
+      ],
+      "evidence_match": "exact",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q08",
+      "split": "dev",
+      "gold": [
+        "blld-vbhn125-2025:p43"
+      ],
+      "evidence_match": "exact",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q09",
+      "split": "dev",
+      "gold": [
+        "blld-vbhn125-2025:p44"
+      ],
+      "evidence_match": "nospace",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q10",
+      "split": "dev",
+      "gold": [
+        "luat-bhxh-41-2024:p14"
+      ],
+      "evidence_match": "exact",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q11",
+      "split": "dev",
+      "gold": [
+        "luat-bhxh-41-2024:p19"
+      ],
+      "evidence_match": "exact",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q12",
+      "split": "dev",
+      "gold": [
+        "luat-bhxh-41-2024:p24"
+      ],
+      "evidence_match": "exact",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q13",
+      "split": "dev",
+      "gold": [
+        "luat-bhxh-41-2024:p29"
+      ],
+      "evidence_match": "exact",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q14",
+      "split": "dev",
+      "gold": [
+        "blld-vbhn125-2025:p53"
+      ],
+      "evidence_match": "exact",
+      "filter": {
+        "law_name": "bo-luat-lao-dong"
+      },
+      "filter_matches_gold": true,
+      "evidence_also_on": []
+    },
+    {
+      "id": "q15",
+      "split": "dev",
+      "gold": [
+        "luat-bhxh-41-2024:p38"
+      ],
+      "evidence_match": "exact",
+      "filter": {
+        "law_name": "luat-bao-hiem-xa-hoi",
+        "chapter": "V"
+      },
+      "filter_matches_gold": true,
+      "evidence_also_on": []
+    },
+    {
+      "id": "q16",
+      "split": "test",
+      "gold": [
+        "blld-vbhn125-2025:p62"
+      ],
+      "evidence_match": "nospace",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q17",
+      "split": "test",
+      "gold": [
+        "blld-vbhn125-2025:p52"
+      ],
+      "evidence_match": "exact",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q18",
+      "split": "test",
+      "gold": [
+        "luat-bhxh-41-2024:p39",
+        "luat-bhxh-41-2024:p40",
+        "luat-bhxh-41-2024:p53"
+      ],
+      "evidence_match": "exact",
+      "evidence_also_on": []
+    },
+    {
+      "id": "q19",
+      "split": "test",
+      "gold": [
+        "luat-bhxh-41-2024:p50"
+      ],
+      "evidence_match": "exact",
+      "filter": {
+        "law_name": "luat-bao-hiem-xa-hoi",
+        "chapter": "VI"
+      },
+      "filter_matches_gold": true,
+      "evidence_also_on": []
+    },
+    {
+      "id": "q20",
+      "split": "test",
+      "gold": [
+        "luat-bhxh-41-2024:p55"
+      ],
+      "evidence_match": "exact",
+      "filter": {
+        "law_name": "luat-bao-hiem-xa-hoi",
+        "chapter": "VI"
+      },
+      "filter_matches_gold": true,
+      "evidence_also_on": []
+    }
+  ]
+}

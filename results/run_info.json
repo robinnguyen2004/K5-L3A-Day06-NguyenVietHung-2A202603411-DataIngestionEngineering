@@ -1,0 +1,64 @@
+{
+  "generated_at": "2026-11-13T16:24:00+00:00",
+  "python": "3.13.14",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "embedding": {
+    "provider": "sentence-transformers (local)",
+    "model_name": "intfloat/multilingual-e5-small",
+    "dimensions": 384,
+    "max_seq_length": 512,
+    "device": "cpu",
+    "normalize_embeddings": true,
+    "query_prefix": "query: ",
+    "passage_prefix": "passage: ",
+    "cost_usd": 0,
+    "hf_snapshot": "614241f622f53c4eeff9890bdc4f31cfecc418b3"
+  },
+  "vector_store": {
+    "postgresql": "16.16 (Debian 16.16-1.pgdg12+1)",
+    "pgvector": "0.8.7",
+    "table": "law_chunks",
+    "search": "exact (sequential scan, no ANN index), cosine distance <=>"
+  },
+  "packages": {
+    "sentence-transformers": "6.3.0",
+    "torch": "2.15.0",
+    "transformers": "5.22.2",
+    "psycopg": "3.3.8",
+    "pgvector": "0.5.1",
+    "pypdf": "6.21.4",
+    "numpy": "2.5.4"
+  },
+  "strategies": {
+    "A": {
+      "description": "Fixed-size 500 chars, overlap 50, no filter",
+      "chunker": "fixed_size",
+      "params": {
+        "size": 500,
+        "overlap": 50
+      },
+      "index": "A",
+      "use_filter": false
+    },
+    "B": {
+      "description": "Structure-aware (Điều/khoản/điểm), max 800 chars, no filter",
+      "chunker": "by_paragraph",
+      "params": {
+        "max_size": 800
+      },
+      "index": "B",
+      "use_filter": false
+    },
+    "C": {
+      "description": "Same chunks/index as B + SQL metadata filter when the question provides one",
+      "chunker": "by_paragraph",
+      "params": {
+        "max_size": 800
+      },
+      "index": "B",
+      "use_filter": true
+    }
+  },
+  "top_k": 3,
+  "cost_usd": 0
+}

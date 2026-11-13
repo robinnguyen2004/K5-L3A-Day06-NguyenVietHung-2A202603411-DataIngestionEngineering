@@ -1,0 +1,191 @@
+{
+  "generated_at": "2026-11-13T16:24:27+00:00",
+  "split": "dev",
+  "search_seconds": {
+    "A": 0.752,
+    "B": 0.904,
+    "C": 0.757
+  },
+  "summary": {
+    "A": {
+      "dev": {
+        "questions": 15,
+        "hit@1": {
+          "n": 5,
+          "N": 15,
+          "text": "5/15",
+          "rate": 0.333
+        },
+        "evidence_hit@3": {
+          "n": 10,
+          "N": 15,
+          "text": "10/15",
+          "rate": 0.667
+        },
+        "gold_page_in_top3": {
+          "n": 14,
+          "N": 15,
+          "text": "14/15",
+          "rate": 0.933
+        },
+        "evidence_split_suspect": [
+          "q10",
+          "q14"
+        ],
+        "filter_compliance_top3": {
+          "n": 0,
+          "N": 2,
+          "text": "0/2",
+          "rate": 0.0
+        },
+        "hit@3_by_type": {
+          "dien_dat_lai": {
+            "n": 3,
+            "N": 4,
+            "text": "3/4",
+            "rate": 0.75
+          },
+          "dieu_kien": {
+            "n": 3,
+            "N": 5,
+            "text": "3/5",
+            "rate": 0.6
+          },
+          "metadata": {
+            "n": 1,
+            "N": 2,
+            "text": "1/2",
+            "rate": 0.5
+          },
+          "truc_tiep": {
+            "n": 3,
+            "N": 4,
+            "text": "3/4",
+            "rate": 0.75
+          }
+        },
+        "misses_at_3": [
+          "q10",
+          "q11",
+          "q12",
+          "q13",
+          "q14"
+        ]
+      }
+    },
+    "B": {
+      "dev": {
+        "questions": 15,
+        "hit@1": {
+          "n": 10,
+          "N": 15,
+          "text": "10/15",
+          "rate": 0.667
+        },
+        "evidence_hit@3": {
+          "n": 15,
+          "N": 15,
+          "text": "15/15",
+          "rate": 1.0
+        },
+        "gold_page_in_top3": {
+          "n": 15,
+          "N": 15,
+          "text": "15/15",
+          "rate": 1.0
+        },
+        "evidence_split_suspect": [],
+        "filter_compliance_top3": {
+          "n": 0,
+          "N": 2,
+          "text": "0/2",
+          "rate": 0.0
+        },
+        "hit@3_by_type": {
+          "dien_dat_lai": {
+            "n": 4,
+            "N": 4,
+            "text": "4/4",
+            "rate": 1.0
+          },
+          "dieu_kien": {
+            "n": 5,
+            "N": 5,
+            "text": "5/5",
+            "rate": 1.0
+          },
+          "metadata": {
+            "n": 2,
+            "N": 2,
+            "text": "2/2",
+            "rate": 1.0
+          },
+          "truc_tiep": {
+            "n": 4,
+            "N": 4,
+            "text": "4/4",
+            "rate": 1.0
+          }
+        },
+        "misses_at_3": []
+      }
+    },
+    "C": {
+      "dev": {
+        "questions": 15,
+        "hit@1": {
+          "n": 11,
+          "N": 15,
+          "text": "11/15",
+          "rate": 0.733
+        },
+        "evidence_hit@3": {
+          "n": 15,
+          "N": 15,
+          "text": "15/15",
+          "rate": 1.0
+        },
+        "gold_page_in_top3": {
+          "n": 15,
+          "N": 15,
+          "text": "15/15",
+          "rate": 1.0
+        },
+        "evidence_split_suspect": [],
+        "filter_compliance_top3": {
+          "n": 2,
+          "N": 2,
+          "text": "2/2",
+          "rate": 1.0
+        },
+        "hit@3_by_type": {
+          "dien_dat_lai": {
+            "n": 4,
+            "N": 4,
+            "text": "4/4",
+            "rate": 1.0
+          },
+          "dieu_kien": {
+            "n": 5,
+            "N": 5,
+            "text": "5/5",
+            "rate": 1.0
+          },
+          "metadata": {
+            "n": 2,
+            "N": 2,
+            "text": "2/2",
+            "rate": 1.0
+          },
+          "truc_tiep": {
+            "n": 4,
+            "N": 4,
+            "text": "4/4",
+            "rate": 1.0
+          }
+        },
+        "misses_at_3": []
+      }
+    }
+  }
+}

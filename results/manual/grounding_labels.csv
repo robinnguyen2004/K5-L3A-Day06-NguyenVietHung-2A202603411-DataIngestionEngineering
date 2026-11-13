@@ -1,0 +1,278 @@
+﻿strategy,question_id,question,expected_answer,applied_filter,auto_evidence_hit@3,top1_chunk,top2_chunk,top3_chunk,grounding_score_0_1_2,reason
+A,q16,"Theo lộ trình, tuổi nghỉ hưu trong điều kiện lao động bình thường sẽ là bao nhiêu đối với nam và nữ?",Đủ 62 tuổi với lao động nam vào năm 2028 và đủ 60 tuổi với lao động nữ vào năm 2035.,null,True,"blld-vbhn125-2025:p063:fixed500o50:00
+Kể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động
+bình thường là đủ 60 tuổi 03 tháng đối với lao động nam và đủ 55 tuổi 04 tháng
+đối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03 tháng đối với lao động nam
+và 04 tháng đối với lao động nữ.
+3. Người lao động bị suy giảm khả năng lao động; làm nghề, công việc đặc
+biệt nặng nhọc, độc hại, nguy hiểm; làm nghề, công việc nặng nhọc, độc hại, nguy
+hiểm; làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn có thể","blld-vbhn125-2025:p062:fixed500o50:04
+ảo hiểm xã h ội
+theo quy đ ịnh của pháp lu ật về bảo hiểm xã hội được hưởng lương hưu khi đ ủ
+tuổi nghỉ hưu.
+2. Tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường
+được điều chỉnh theo l ộ trình cho đến khi đ ủ 62 tuổi đối với lao đ ộng nam vào
+năm 2028 và đủ 60 tuổi đối với lao động nữ vào năm 2035.","luat-bhxh-41-2024:p038:fixed500o50:05
+quy định
+tại Điều này.
+Điều 68. Trợ cấp một lần khi nghỉ hưu
+1. Lao động nam có thời gian đóng bảo hiểm xã hội cao hơn 35 năm, lao động
+nữ có thời gian đóng bảo hiểm xã hội cao hơn 30 năm thì khi nghỉ hưu, ngoài lương
+hưu còn được hưởng trợ cấp một lần.
+2. Mức hưởng trợ cấp một lần cho mỗi năm đóng cao hơn quy định tại khoản 1
+Điều này bằng 0,5 lần của mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã
+hội quy định tại Điều 72 của Luật này cho mỗi năm đóng cao hơn đến tuổi nghỉ hưu
+theo quy",,
+A,q17,"Lao động nữ mang thai từ tháng thứ mấy thì công ty không được bắt làm ban đêm, làm thêm giờ hoặc đi công tác xa?","Từ tháng thứ 07, hoặc từ tháng thứ 06 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo.",null,True,"blld-vbhn125-2025:p052:fixed500o50:01
+vệ thai sản
+1. Người sử dụng lao động không được sử dụng người lao động làm việc ban
+đêm, làm thêm giờ và đi công tác xa trong trường hợp sau đây:
+a) Mang thai từ tháng thứ 07 hoặc từ tháng thứ 06 nếu làm việc ở vùng cao,
+vùng sâu, vùng xa, biên giới, hải đảo;
+b) Đang nuôi con dư ới 12 tháng tu ổi, trừ trường hợp được người lao động
+đồng ý.
+2. Lao đ ộng nữ làm nghề, công vi ệc nặng nhọc, độc hại, nguy hi ểm hoặc
+đặc biệt nặng nhọc, độc hại, nguy hiểm hoặc làm nghề, công việc có ảnh hưởng
+xấu","blld-vbhn125-2025:p053:fixed500o50:03
+sau khi thỏa
+thuận với người sử dụng lao động.
+4. Trước khi hết thời gian nghỉ thai sản theo quy định tại khoản 1 Điều này,
+lao động nữ có thể trở lại làm việc khi đã nghỉ ít nhất được 04 tháng nhưng người
+lao động phải báo trước, được người sử dụng lao động đồng ý và có xác nhận của
+cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc đi làm sớm không có hại cho
+sức khỏe của người lao động. Trong trường hợp này, ngoài tiền lương của những
+ngày làm việc do người sử dụng lao động trả, lao động nữ","luat-bhxh-41-2024:p028:fixed500o50:01
+trường hợp
+sau đây:
+a) Lao động nữ mang thai;
+b) Lao động nữ sinh con;
+c) Lao động nữ mang thai hộ;
+d) Lao động nữ nhờ mang thai hộ;
+đ) Người lao động nhận nuôi con nuôi dưới 06 tháng tuổi;
+e) Người lao động sử dụng các biện pháp tránh thai mà các biện pháp đó phải
+được thực hiện tại cơ sở khám bệnh, chữa bệnh;
+g) Lao động nam đang tham gia bảo hiểm xã hội bắt buộc có vợ sinh con, vợ
+mang thai hộ sinh con.
+2. Đối tượng quy định tại các điểm b, c, d và đ khoản 1 Điều này phải đóng bảo
+hiểm xã",,
+A,q18,Bị bệnh nặng như ung thư thì có được rút bảo hiểm xã hội một lần không?,"Có, nếu đã chấm dứt tham gia BHXH và có đề nghị: người đang mắc ung thư, bại liệt, xơ gan mất bù, lao nặng, AIDS được hưởng BHXH một lần.",null,True,"luat-bhxh-41-2024:p039:fixed500o50:03
+được hưởng bảo hiểm xã hội một lần nếu thuộc
+một trong các trường hợp sau đây:
+a) Đủ tuổi hưởng lương hưu mà chưa đủ 15 năm đóng bảo hiểm xã hội.
+Trường hợp người lao động không hưởng bảo hiểm xã hội một lần thì có thể lựa
+chọn hưởng trợ cấp hằng tháng theo quy định tại Điều 23 của Luật này;
+b) Ra nước ngoài để định cư;
+c) Người đang mắc một trong những bệnh ung thư, bại liệt, xơ gan mất bù, lao
+nặng, AIDS;
+d) Người có mức suy giảm khả năng lao động từ 81% trở lên; người khuyết tật
+đặc biệt","luat-bhxh-41-2024:p053:fixed500o50:00
+b) Ra nước ngoài để định cư;
+c) Người đang mắc một trong những bệnh ung thư, bại liệt, xơ gan mất bù, lao
+nặng, AIDS;
+d) Người có mức suy giảm khả năng lao động từ 81% trở lên; người khuyết tật
+đặc biệt nặng;
+đ) Người lao động có thời gian đóng bảo hiểm xã hội trước ngày Luật này có
+hiệu lực thi hành, sau 12 tháng không tiếp tục đóng bảo hiểm xã hội mà chưa đủ 20
+năm đóng bảo hiểm xã hội.
+2. Mức hưởng bảo hiểm xã hội một lần được tính theo số năm đã đóng và căn cứ
+đóng bảo hiểm xã hội, cứ mỗi","luat-bhxh-41-2024:p040:fixed500o50:00
+b) Người đang mắc một trong những bệnh ung thư, bại liệt, xơ gan mất bù, lao
+nặng, AIDS;
+c) Người có mức suy giảm khả năng lao động từ 81% trở lên; người khuyết tật
+đặc biệt nặng;
+d) Người lao động đủ điều kiện hưởng lương hưu theo quy định nhưng không
+tiếp tục cư trú tại Việt Nam;
+đ) Người lao động khi chấm dứt hợp đồng lao động hoặc giấy phép lao động,
+chứng chỉ hành nghề, giấy phép hành nghề hết hiệu lực mà không được gia hạn.
+3. Mức hưởng bảo hiểm xã hội một lần được tính theo số năm đã",,
+A,q19,Người tham gia bảo hiểm xã hội tự nguyện khi sinh con được trợ cấp thai sản bao nhiêu tiền?,2.000.000 đồng cho mỗi con được sinh ra.,null,True,"luat-bhxh-41-2024:p050:fixed500o50:02
+bảo hiểm xã hội tự nguyện từ
+đủ 06 tháng trở lên trong thời gian 12 tháng trước khi sinh con được hưởng trợ cấp
+thai sản khi thuộc một trong các trường hợp sau đây:
+a) Lao động nữ sinh con;
+b) Lao động nam có vợ sinh con.
+2. Trường hợp chỉ có mẹ tham gia bảo hiểm xã hội mà mẹ chết sau khi sinh con
+thì cha hoặc người trực tiếp nuôi dưỡng được hưởng trợ cấp thai sản.
+3. Trường hợp cả cha và mẹ cùng tham gia bảo hiểm xã hội đủ điều kiện hưởng
+trợ cấp thai sản quy định tại khoản 1 Điều này thì chỉ","luat-bhxh-41-2024:p050:fixed500o50:05
+trong bảo hiểm xã hội tự nguyện.
+Điều 95. Trợ cấp thai sản
+1. Mức trợ cấp thai sản là 2.000.000 đồng cho mỗi con được sinh ra và mỗi thai
+từ 22 tuần tuổi trở lên chết trong tử cung, thai chết trong khi chuyển dạ.
+Lao động nữ là người dân tộc thiểu số hoặc lao động nữ là người dân tộc Kinh
+có chồng là người dân tộc thiểu số thuộc hộ nghèo khi sinh con còn được hưởng chính
+sách hỗ trợ khác theo quy định của Chính phủ.","luat-bhxh-41-2024:p050:fixed500o50:04
+kiện hưởng trợ cấp thai sản trong bảo hiểm xã hội tự nguyện thì mẹ
+được hưởng chế độ thai sản trong bảo hiểm xã hội bắt buộc và cha được hưởng trợ
+cấp thai sản trong bảo hiểm xã hội tự nguyện.
+6. Trường hợp cha đủ điều kiện hưởng chế độ thai sản trong bảo hiểm xã hội bắt
+buộc, mẹ đủ điều kiện hưởng trợ cấp thai sản trong bảo hiểm xã hội tự nguyện thì cha
+được hưởng chế độ thai sản trong bảo hiểm xã hội bắt buộc và mẹ được hưởng trợ
+cấp thai sản trong bảo hiểm xã hội tự nguyện.
+Điều 95. Trợ cấp",,
+A,q20,"Với bảo hiểm xã hội tự nguyện, những người nào khi chết thì người lo mai táng được nhận trợ cấp mai táng?","Người có thời gian đóng BHXH từ đủ 60 tháng trở lên; người đang hưởng lương hưu, tạm dừng hưởng lương hưu.",null,True,"luat-bhxh-41-2024:p045:fixed500o50:05
+chế độ tử tuất của người tham gia bảo hiểm xã hội bị chết là
+thân nhân quy định khoản 2 Điều 86, các điểm a, b và c khoản 2 Điều 88 của Luật
+này; người thừa kế quy định tại điểm d khoản 2 Điều 88 của Luật này; tổ chức, cá
+nhân lo mai táng q uy định khoản 1 Điều 85 của Luật này và thân nhân quy định tại
+khoản 3 Điều 85 của Luật này.
+Điều 85. Trợ cấp mai táng
+1. Người sau đây khi chết thì tổ chức, cá nhân lo mai táng được nhận một lần trợ
+cấp mai táng:","luat-bhxh-41-2024:p055:fixed500o50:01
+này;
+thân nhân quy định khoản 3 Điều 109 của Luật này và khoản 1 Điều 110 của Luật
+này.
+Điều 109. Trợ cấp mai táng
+1. Những người sau đây khi chết thì tổ chức, cá nhân lo mai táng được nhận một
+lần trợ cấp mai táng:
+a) Người có thời gian đóng bảo hiểm xã hội từ đủ 60 tháng trở lên;
+b) Người đang hưởng lương hưu, tạm dừng hưởng lương hưu.
+2. Mức trợ cấp mai táng bằng 10 lần mức tham chiếu tại tháng mà người quy
+định tại khoản 1 Điều này chết.
+3. Trường hợp người quy định tại khoản 1 Điều này bị","luat-bhxh-41-2024:p015:fixed500o50:01
+trình Hội đồng nhân dân cùng cấp quyết
+định hỗ trợ thêm cho người hưởng trợ cấp hưu trí xã hội.
+2. Trường hợp đối tượng quy định tại Điều 21 của Luật này đồng thời thuộc đối
+tượng hưởng trợ cấp xã hội hằng tháng thì được hưởng chế độ trợ cấp cao hơn.
+3. Người đang hưởng trợ cấp hưu trí xã hội hằng tháng được ngân sách nhà nước
+đóng bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế, khi chết thì tổ chức,
+cá nhân lo mai táng được nhận hỗ trợ chi phí mai táng theo quy định của pháp luật",,
+B,q16,"Theo lộ trình, tuổi nghỉ hưu trong điều kiện lao động bình thường sẽ là bao nhiêu đối với nam và nữ?",Đủ 62 tuổi với lao động nam vào năm 2028 và đủ 60 tuổi với lao động nữ vào năm 2035.,null,True,"blld-vbhn125-2025:p063:para800:00
+Điều 169. Tuổi nghỉ hưu (tiếp)
+Kể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường là đủ 60 tuổi 03 tháng đối với lao động nam và đủ 55 tuổi 04 tháng đối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03 tháng đối với lao động nam và 04 tháng đối với lao động nữ.
+3. Người lao động bị suy giảm khả năng lao động; làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm; làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn nhưng không quá 05 tu ổi so với quy định tại khoản 2 Điều này tại thời điểm nghỉ hưu, trừ trường hợp pháp luật có quy định khác.","blld-vbhn125-2025:p062:para800:04
+Điều 169. Tuổi nghỉ hưu
+1. Người lao đ ộng bảo đảm điều kiện về thời gian đóng b ảo hiểm xã h ội theo quy đ ịnh của pháp lu ật về bảo hiểm xã hội được hưởng lương hưu khi đ ủ tuổi nghỉ hưu.
+2. Tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều chỉnh theo l ộ trình cho đến khi đ ủ 62 tuổi đối với lao đ ộng nam vào năm 2028 và đủ 60 tuổi đối với lao động nữ vào năm 2035.","luat-bhxh-41-2024:p036:para800:03
+Điều 64. Đối tượng và điều kiện hưởng lương hưu (tiếp)
+b) Đủ tuổi nghỉ hưu theo quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có tổng thời gian đóng bảo hiểm xã hội bắt buộc từ đủ 15 năm trở lên khi làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành hoặc làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021;
+c) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi quy định tại khoản 2 Điều 169 của Bộ luật Lao động và có từ đủ 15 năm trở lên làm công việc khai thác than trong hầm lò theo quy định của Chính phủ;",,
+B,q17,"Lao động nữ mang thai từ tháng thứ mấy thì công ty không được bắt làm ban đêm, làm thêm giờ hoặc đi công tác xa?","Từ tháng thứ 07, hoặc từ tháng thứ 06 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo.",null,True,"blld-vbhn125-2025:p052:para800:01
+Điều 137. Bảo vệ thai sản
+1. Người sử dụng lao động không được sử dụng người lao động làm việc ban đêm, làm thêm giờ và đi công tác xa trong trường hợp sau đây:
+a) Mang thai từ tháng thứ 07 hoặc từ tháng thứ 06 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo;
+b) Đang nuôi con dư ới 12 tháng tu ổi, trừ trường hợp được người lao động đồng ý.","blld-vbhn125-2025:p053:para800:03
+Điều 139. Nghỉ thai sản (tiếp)
+4. Trước khi hết thời gian nghỉ thai sản theo quy định tại khoản 1 Điều này, lao động nữ có thể trở lại làm việc khi đã nghỉ ít nhất được 04 tháng nhưng người lao động phải báo trước, được người sử dụng lao động đồng ý và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc đi làm sớm không có hại cho sức khỏe của người lao động. Trong trường hợp này, ngoài tiền lương của những ngày làm việc do người sử dụng lao động trả, lao động nữ vẫn tiếp tục được hưởng trợ cấp thai sản theo quy định của pháp luật về bảo hiểm xã hội.
+5. Lao động nam khi vợ sinh con, người lao động nhận nuôi con nuôi dư ới 06 tháng tuổi, lao động nữ mang thai hộ và người lao động là người mẹ nhờ mang thai hộ được nghỉ việc hưởng chế độ thai sản theo quy định của pháp luật về bảo hiểm xã hội.","blld-vbhn125-2025:p053:para800:02
+Điều 139. Nghỉ thai sản
+1. Lao động nữ được nghỉ thai sản trước và sau khi sinh con là 06 tháng; thời gian nghỉ trước khi sinh không quá 02 tháng. Trường hợp lao động nữ sinh đôi trở lên thì tính từ con thứ 02 trở đi, cứ mỗi con, người mẹ được nghỉ thêm 01 tháng.
+2. Trong thời gian ngh ỉ thai sản, lao đ ộng nữ được hưởng chế độ thai sản theo quy định của pháp luật về bảo hiểm xã hội.
+3. Hết thời gian nghỉ thai sản theo quy định tại khoản 1 Điều này, nếu có nhu cầu, lao động nữ có thể nghỉ thêm một thời gian không hưởng lương sau khi thỏa thuận với người sử dụng lao động.",,
+B,q18,Bị bệnh nặng như ung thư thì có được rút bảo hiểm xã hội một lần không?,"Có, nếu đã chấm dứt tham gia BHXH và có đề nghị: người đang mắc ung thư, bại liệt, xơ gan mất bù, lao nặng, AIDS được hưởng BHXH một lần.",null,True,"luat-bhxh-41-2024:p040:para800:00
+Điều 70. Hưởng bảo hiểm xã hội một lần (tiếp)
+b) Người đang mắc một trong những bệnh ung thư, bại liệt, xơ gan mất bù, lao nặng, AIDS;
+c) Người có mức suy giảm khả năng lao động từ 81% trở lên; người khuyết tật đặc biệt nặng;
+d) Người lao động đủ điều kiện hưởng lương hưu theo quy định nhưng không tiếp tục cư trú tại Việt Nam;
+đ) Người lao động khi chấm dứt hợp đồng lao động hoặc giấy phép lao động, chứng chỉ hành nghề, giấy phép hành nghề hết hiệu lực mà không được gia hạn.
+3. Mức hưởng bảo hiểm xã hội một lần được tính theo số năm đã đóng và căn cứ đóng bảo hiểm xã hội nhưng không bao gồm số tiền ngân sách nhà nước hỗ trợ đóng bảo hiểm xã hội tự nguyện, cứ mỗi năm được tính như sau:","luat-bhxh-41-2024:p053:para800:00
+Điều 102. Hưởng bảo hiểm xã hội một lần (tiếp)
+b) Ra nước ngoài để định cư;
+c) Người đang mắc một trong những bệnh ung thư, bại liệt, xơ gan mất bù, lao nặng, AIDS;
+d) Người có mức suy giảm khả năng lao động từ 81% trở lên; người khuyết tật đặc biệt nặng;
+đ) Người lao động có thời gian đóng bảo hiểm xã hội trước ngày Luật này có hiệu lực thi hành, sau 12 tháng không tiếp tục đóng bảo hiểm xã hội mà chưa đủ 20 năm đóng bảo hiểm xã hội.
+2. Mức hưởng bảo hiểm xã hội một lần được tính theo số năm đã đóng và căn cứ đóng bảo hiểm xã hội, cứ mỗi năm được tính như sau:","luat-bhxh-41-2024:p039:para800:03
+Điều 70. Hưởng bảo hiểm xã hội một lần
+1. Đối tượng quy định tại khoản 1 Điều 2 của Luật này đã chấm dứt tham gia bảo hiểm xã hội mà có đề nghị thì được hưởng bảo hiểm xã hội một lần nếu thuộc một trong các trường hợp sau đây:
+a) Đủ tuổi hưởng lương hưu mà chưa đủ 15 năm đóng bảo hiểm xã hội. Trường hợp người lao động không hưởng bảo hiểm xã hội một lần thì có thể lựa chọn hưởng trợ cấp hằng tháng theo quy định tại Điều 23 của Luật này;
+b) Ra nước ngoài để định cư;
+c) Người đang mắc một trong những bệnh ung thư, bại liệt, xơ gan mất bù, lao nặng, AIDS;
+d) Người có mức suy giảm khả năng lao động từ 81% trở lên; người khuyết tật đặc biệt nặng;",,
+B,q19,Người tham gia bảo hiểm xã hội tự nguyện khi sinh con được trợ cấp thai sản bao nhiêu tiền?,2.000.000 đồng cho mỗi con được sinh ra.,null,False,"luat-bhxh-41-2024:p050:para800:02
+Chương VI BẢO HIỂM XÃ HỘI TỰ NGUYỆN
+Mục 1. TRỢ CẤP THAI SẢN
+Điều 94. Đối tượng và điều kiện hưởng trợ cấp thai sản
+1. Đối tượng có thời gian đóng bảo hiểm xã hội tự nguyện hoặc vừa có thời gian đóng bảo hiểm xã hội bắt buộc vừa có thời gian đóng bảo hiểm xã hội tự nguyện từ đủ 06 tháng trở lên trong thời gian 12 tháng trước khi sinh con được hưởng trợ cấp thai sản khi thuộc một trong các trường hợp sau đây:
+a) Lao động nữ sinh con;
+b) Lao động nam có vợ sinh con.
+2. Trường hợp chỉ có mẹ tham gia bảo hiểm xã hội mà mẹ chết sau khi sinh con thì cha hoặc người trực tiếp nuôi dưỡng được hưởng trợ cấp thai sản.
+3. Trường hợp cả cha và mẹ cùng tham gia bảo hiểm xã hội đủ điều kiện hưởng trợ cấp thai sản quy định tại khoản 1 Điều này thì chỉ cha hoặc mẹ được hưởng trợ cấp thai sản.","luat-bhxh-41-2024:p032:para800:03
+Điều 58. Trợ cấp một lần khi sinh con, nhận con khi nhờ mang thai hộ hoặc (tiếp)
+không tham gia bảo hiểm xã hội bắt buộc hoặc không đủ điều kiện thì người chồng của người mang thai hộ đã đóng bảo hiểm xã hội bắt buộc từ đủ 06 tháng trở lên trong thời gian 12 tháng tính đến thời điểm người mang thai hộ sinh con được trợ cấp một lần.
+3. Người lao động nhận nuôi con nuôi dưới 06 tháng tuổi đủ điều kiện theo quy định tại khoản 2 Điều 50 của Luật này thì được trợ cấp một lần.
+4. Mức trợ cấp một lần cho mỗi con quy định tại các khoản 1, 2 và 3 Điều này bằng 02 lần mức tham chiếu tại tháng lao động nữ sinh con, nhận con do nhờ mang thai hộ, nhận nuôi con nuôi.","luat-bhxh-41-2024:p032:para800:02
+Điều 58. Trợ cấp một lần khi sinh con, nhận con khi nhờ mang thai hộ hoặc (tiếp)
+2. Lao động nữ mang thai hộ có đủ điều kiện theo quy định tại khoản 2 hoặc khoản 3 Điều 50 của Luật này thì được trợ cấp một lần khi sinh con. Trường hợp người mang thai hộ không tham gia bảo hiểm xã hội bắt buộc hoặc không đủ điều kiện thì người mẹ nhờ mang thai hộ đã đóng bảo hiểm xã hội bắt buộc từ đủ 06 tháng trở lên trong thời gian 12 tháng tính đến thời điểm nhận con được trợ cấp một lần. Trường hợp người mang thai hộ, người mẹ nhờ mang thai hộ không tham gia bảo hiểm xã hội bắt buộc hoặc không đủ điều kiện thì người chồng của người mẹ nhờ mang thai hộ đã đóng bảo hiểm xã hội bắt buộc từ đủ 06 tháng trở lên trong thời gian 12 tháng tính đến thời điểm nhận con được trợ cấp một lần. Trường hợp người mang thai hộ, người mẹ nhờ mang thai hộ và người chồng của người mẹ nhờ mang thai hộ",,
+B,q20,"Với bảo hiểm xã hội tự nguyện, những người nào khi chết thì người lo mai táng được nhận trợ cấp mai táng?","Người có thời gian đóng BHXH từ đủ 60 tháng trở lên; người đang hưởng lương hưu, tạm dừng hưởng lương hưu.",null,True,"luat-bhxh-41-2024:p055:para800:02
+Điều 109. Trợ cấp mai táng
+1. Những người sau đây khi chết thì tổ chức, cá nhân lo mai táng được nhận một lần trợ cấp mai táng:
+a) Người có thời gian đóng bảo hiểm xã hội từ đủ 60 tháng trở lên;
+b) Người đang hưởng lương hưu, tạm dừng hưởng lương hưu.
+2. Mức trợ cấp mai táng bằng 10 lần mức tham chiếu tại tháng mà người quy định tại khoản 1 Điều này chết.
+3. Trường hợp người quy định tại khoản 1 Điều này bị Tòa án tuyên bố là đã chết thì thân nhân được hưởng trợ cấp quy định tại khoản 2 Điều này.","luat-bhxh-41-2024:p045:para800:05
+Điều 85. Trợ cấp mai táng
+1. Người sau đây khi chết thì tổ chức, cá nhân lo mai táng được nhận một lần trợ cấp mai táng:","luat-bhxh-41-2024:p046:para800:00
+Điều 85. Trợ cấp mai táng (tiếp)
+a) Đối tượng quy định tại khoản 1 và khoản 2 Điều 2 của Luật này có thời gian đóng bảo hiểm xã hội bắt buộc từ đủ 12 tháng trở lên;
+b) Chết do tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật về an toàn, vệ sinh lao động;
+c) Người đang hưởng hoặc đang tạm dừng hưởng lương hưu; người đang hưởng hoặc đang tạm dừng hưởng trợ cấp tai nạn lao động, bệnh nghề nghiệp hằng tháng đã nghỉ việc.
+2. Mức trợ cấp mai táng bằng 10 lần mức tham chiếu tại tháng mà người quy định tại khoản 1 Điều này chết.
+3. Trường hợp đối tượng quy định tại các điểm a, b và c khoản 1 Điều này bị Tòa án tuyên bố là đã chết thì thân nhân được hưởng trợ cấp mai táng quy định tại khoản 2 Điều này.",,
+C,q16,"Theo lộ trình, tuổi nghỉ hưu trong điều kiện lao động bình thường sẽ là bao nhiêu đối với nam và nữ?",Đủ 62 tuổi với lao động nam vào năm 2028 và đủ 60 tuổi với lao động nữ vào năm 2035.,null,True,"blld-vbhn125-2025:p063:para800:00
+Điều 169. Tuổi nghỉ hưu (tiếp)
+Kể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường là đủ 60 tuổi 03 tháng đối với lao động nam và đủ 55 tuổi 04 tháng đối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03 tháng đối với lao động nam và 04 tháng đối với lao động nữ.
+3. Người lao động bị suy giảm khả năng lao động; làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm; làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn nhưng không quá 05 tu ổi so với quy định tại khoản 2 Điều này tại thời điểm nghỉ hưu, trừ trường hợp pháp luật có quy định khác.","blld-vbhn125-2025:p062:para800:04
+Điều 169. Tuổi nghỉ hưu
+1. Người lao đ ộng bảo đảm điều kiện về thời gian đóng b ảo hiểm xã h ội theo quy đ ịnh của pháp lu ật về bảo hiểm xã hội được hưởng lương hưu khi đ ủ tuổi nghỉ hưu.
+2. Tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều chỉnh theo l ộ trình cho đến khi đ ủ 62 tuổi đối với lao đ ộng nam vào năm 2028 và đủ 60 tuổi đối với lao động nữ vào năm 2035.","luat-bhxh-41-2024:p036:para800:03
+Điều 64. Đối tượng và điều kiện hưởng lương hưu (tiếp)
+b) Đủ tuổi nghỉ hưu theo quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có tổng thời gian đóng bảo hiểm xã hội bắt buộc từ đủ 15 năm trở lên khi làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành hoặc làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021;
+c) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi quy định tại khoản 2 Điều 169 của Bộ luật Lao động và có từ đủ 15 năm trở lên làm công việc khai thác than trong hầm lò theo quy định của Chính phủ;",,
+C,q17,"Lao động nữ mang thai từ tháng thứ mấy thì công ty không được bắt làm ban đêm, làm thêm giờ hoặc đi công tác xa?","Từ tháng thứ 07, hoặc từ tháng thứ 06 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo.",null,True,"blld-vbhn125-2025:p052:para800:01
+Điều 137. Bảo vệ thai sản
+1. Người sử dụng lao động không được sử dụng người lao động làm việc ban đêm, làm thêm giờ và đi công tác xa trong trường hợp sau đây:
+a) Mang thai từ tháng thứ 07 hoặc từ tháng thứ 06 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo;
+b) Đang nuôi con dư ới 12 tháng tu ổi, trừ trường hợp được người lao động đồng ý.","blld-vbhn125-2025:p053:para800:03
+Điều 139. Nghỉ thai sản (tiếp)
+4. Trước khi hết thời gian nghỉ thai sản theo quy định tại khoản 1 Điều này, lao động nữ có thể trở lại làm việc khi đã nghỉ ít nhất được 04 tháng nhưng người lao động phải báo trước, được người sử dụng lao động đồng ý và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc đi làm sớm không có hại cho sức khỏe của người lao động. Trong trường hợp này, ngoài tiền lương của những ngày làm việc do người sử dụng lao động trả, lao động nữ vẫn tiếp tục được hưởng trợ cấp thai sản theo quy định của pháp luật về bảo hiểm xã hội.
+5. Lao động nam khi vợ sinh con, người lao động nhận nuôi con nuôi dư ới 06 tháng tuổi, lao động nữ mang thai hộ và người lao động là người mẹ nhờ mang thai hộ được nghỉ việc hưởng chế độ thai sản theo quy định của pháp luật về bảo hiểm xã hội.","blld-vbhn125-2025:p053:para800:02
+Điều 139. Nghỉ thai sản
+1. Lao động nữ được nghỉ thai sản trước và sau khi sinh con là 06 tháng; thời gian nghỉ trước khi sinh không quá 02 tháng. Trường hợp lao động nữ sinh đôi trở lên thì tính từ con thứ 02 trở đi, cứ mỗi con, người mẹ được nghỉ thêm 01 tháng.
+2. Trong thời gian ngh ỉ thai sản, lao đ ộng nữ được hưởng chế độ thai sản theo quy định của pháp luật về bảo hiểm xã hội.
+3. Hết thời gian nghỉ thai sản theo quy định tại khoản 1 Điều này, nếu có nhu cầu, lao động nữ có thể nghỉ thêm một thời gian không hưởng lương sau khi thỏa thuận với người sử dụng lao động.",,
+C,q18,Bị bệnh nặng như ung thư thì có được rút bảo hiểm xã hội một lần không?,"Có, nếu đã chấm dứt tham gia BHXH và có đề nghị: người đang mắc ung thư, bại liệt, xơ gan mất bù, lao nặng, AIDS được hưởng BHXH một lần.",null,True,"luat-bhxh-41-2024:p040:para800:00
+Điều 70. Hưởng bảo hiểm xã hội một lần (tiếp)
+b) Người đang mắc một trong những bệnh ung thư, bại liệt, xơ gan mất bù, lao nặng, AIDS;
+c) Người có mức suy giảm khả năng lao động từ 81% trở lên; người khuyết tật đặc biệt nặng;
+d) Người lao động đủ điều kiện hưởng lương hưu theo quy định nhưng không tiếp tục cư trú tại Việt Nam;
+đ) Người lao động khi chấm dứt hợp đồng lao động hoặc giấy phép lao động, chứng chỉ hành nghề, giấy phép hành nghề hết hiệu lực mà không được gia hạn.
+3. Mức hưởng bảo hiểm xã hội một lần được tính theo số năm đã đóng và căn cứ đóng bảo hiểm xã hội nhưng không bao gồm số tiền ngân sách nhà nước hỗ trợ đóng bảo hiểm xã hội tự nguyện, cứ mỗi năm được tính như sau:","luat-bhxh-41-2024:p053:para800:00
+Điều 102. Hưởng bảo hiểm xã hội một lần (tiếp)
+b) Ra nước ngoài để định cư;
+c) Người đang mắc một trong những bệnh ung thư, bại liệt, xơ gan mất bù, lao nặng, AIDS;
+d) Người có mức suy giảm khả năng lao động từ 81% trở lên; người khuyết tật đặc biệt nặng;
+đ) Người lao động có thời gian đóng bảo hiểm xã hội trước ngày Luật này có hiệu lực thi hành, sau 12 tháng không tiếp tục đóng bảo hiểm xã hội mà chưa đủ 20 năm đóng bảo hiểm xã hội.
+2. Mức hưởng bảo hiểm xã hội một lần được tính theo số năm đã đóng và căn cứ đóng bảo hiểm xã hội, cứ mỗi năm được tính như sau:","luat-bhxh-41-2024:p039:para800:03
+Điều 70. Hưởng bảo hiểm xã hội một lần
+1. Đối tượng quy định tại khoản 1 Điều 2 của Luật này đã chấm dứt tham gia bảo hiểm xã hội mà có đề nghị thì được hưởng bảo hiểm xã hội một lần nếu thuộc một trong các trường hợp sau đây:
+a) Đủ tuổi hưởng lương hưu mà chưa đủ 15 năm đóng bảo hiểm xã hội. Trường hợp người lao động không hưởng bảo hiểm xã hội một lần thì có thể lựa chọn hưởng trợ cấp hằng tháng theo quy định tại Điều 23 của Luật này;
+b) Ra nước ngoài để định cư;
+c) Người đang mắc một trong những bệnh ung thư, bại liệt, xơ gan mất bù, lao nặng, AIDS;
+d) Người có mức suy giảm khả năng lao động từ 81% trở lên; người khuyết tật đặc biệt nặng;",,
+C,q19,Người tham gia bảo hiểm xã hội tự nguyện khi sinh con được trợ cấp thai sản bao nhiêu tiền?,2.000.000 đồng cho mỗi con được sinh ra.,"{""law_name"": ""luat-bao-hiem-xa-hoi"", ""chapter"": ""VI""}",False,"luat-bhxh-41-2024:p050:para800:02
+Chương VI BẢO HIỂM XÃ HỘI TỰ NGUYỆN
+Mục 1. TRỢ CẤP THAI SẢN
+Điều 94. Đối tượng và điều kiện hưởng trợ cấp thai sản
+1. Đối tượng có thời gian đóng bảo hiểm xã hội tự nguyện hoặc vừa có thời gian đóng bảo hiểm xã hội bắt buộc vừa có thời gian đóng bảo hiểm xã hội tự nguyện từ đủ 06 tháng trở lên trong thời gian 12 tháng trước khi sinh con được hưởng trợ cấp thai sản khi thuộc một trong các trường hợp sau đây:
+a) Lao động nữ sinh con;
+b) Lao động nam có vợ sinh con.
+2. Trường hợp chỉ có mẹ tham gia bảo hiểm xã hội mà mẹ chết sau khi sinh con thì cha hoặc người trực tiếp nuôi dưỡng được hưởng trợ cấp thai sản.
+3. Trường hợp cả cha và mẹ cùng tham gia bảo hiểm xã hội đủ điều kiện hưởng trợ cấp thai sản quy định tại khoản 1 Điều này thì chỉ cha hoặc mẹ được hưởng trợ cấp thai sản.","luat-bhxh-41-2024:p050:para800:04
+Điều 94. Đối tượng và điều kiện hưởng trợ cấp thai sản (tiếp)
+6. Trường hợp cha đủ điều kiện hưởng chế độ thai sản trong bảo hiểm xã hội bắt buộc, mẹ đủ điều kiện hưởng trợ cấp thai sản trong bảo hiểm xã hội tự nguyện thì cha được hưởng chế độ thai sản trong bảo hiểm xã hội bắt buộc và mẹ được hưởng trợ cấp thai sản trong bảo hiểm xã hội tự nguyện.","luat-bhxh-41-2024:p050:para800:03
+Điều 94. Đối tượng và điều kiện hưởng trợ cấp thai sản (tiếp)
+4. Trường hợp người quy định tại khoản 1 Điều này vừa có đủ điều kiện hưởng trợ cấp thai sản trong bảo hiểm xã hội tự nguyện và vừa có đủ điều kiện hưởng chế độ thai sản trong bảo hiểm xã hội bắt buộc thì chỉ được hưởng chế độ thai sản trong bảo hiểm xã hội bắt buộc.
+5. Trường hợp mẹ đủ điều kiện hưởng chế độ thai sản trong bảo hiểm xã hội bắt buộc, cha đủ điều kiện hưởng trợ cấp thai sản trong bảo hiểm xã hội tự nguyện thì mẹ được hưởng chế độ thai sản trong bảo hiểm xã hội bắt buộc và cha được hưởng trợ cấp thai sản trong bảo hiểm xã hội tự nguyện.",,
+C,q20,"Với bảo hiểm xã hội tự nguyện, những người nào khi chết thì người lo mai táng được nhận trợ cấp mai táng?","Người có thời gian đóng BHXH từ đủ 60 tháng trở lên; người đang hưởng lương hưu, tạm dừng hưởng lương hưu.","{""law_name"": ""luat-bao-hiem-xa-hoi"", ""chapter"": ""VI""}",True,"luat-bhxh-41-2024:p055:para800:02
+Điều 109. Trợ cấp mai táng
+1. Những người sau đây khi chết thì tổ chức, cá nhân lo mai táng được nhận một lần trợ cấp mai táng:
+a) Người có thời gian đóng bảo hiểm xã hội từ đủ 60 tháng trở lên;
+b) Người đang hưởng lương hưu, tạm dừng hưởng lương hưu.
+2. Mức trợ cấp mai táng bằng 10 lần mức tham chiếu tại tháng mà người quy định tại khoản 1 Điều này chết.
+3. Trường hợp người quy định tại khoản 1 Điều này bị Tòa án tuyên bố là đã chết thì thân nhân được hưởng trợ cấp quy định tại khoản 2 Điều này.","luat-bhxh-41-2024:p055:para800:01
+Mục 3. CHẾ ĐỘ TỬ TUẤT
+Điều 108. Đối tượng hưởng chế độ tử tuất Đối tượng hưởng chế độ tử tuất của người tham gia bảo hiểm xã hội tự nguyện bị chết là tổ chức, cá nhân lo mai táng quy định tại khoản 1 Điều 109 của Luật này; thân nhân quy định khoản 3 Điều 109 của Luật này và khoản 1 Điều 110 của Luật này.","luat-bhxh-41-2024:p055:para800:03
+Điều 110. Trợ cấp tuất một lần
+1. Người đang tham gia bảo hiểm xã hội tự nguyện hoặc đang bảo lưu thời gian đóng bảo hiểm xã hội hoặc đang hưởng lương hưu hoặc đang tạm dừng hưởng lương hưu khi chết thì thân nhân được hưởng trợ cấp tuất một lần.
+2. Mức trợ cấp tuất một lần đối với thân nhân của người đang tham gia bảo hiểm xã hội tự nguyện hoặc đang bảo lưu thời gian đóng bảo hiểm xã hội được tính theo số năm đã đóng bảo hiểm xã hội, cứ mỗi năm tính như sau:
+a) Bằng 1,5 lần của mức bình quân thu nhập làm căn cứ đóng bảo hiểm xã hội cho những năm đóng bảo hiểm xã hội trước năm 2014. Trường hợp thời gian đóng bảo hiểm xã hội có cả trước và sau năm 2014 mà thời gian đóng trước năm 2014 có tháng lẻ thì những tháng lẻ đó được chuyển sang giai đoạn đóng bảo hiểm xã hội từ năm 2014 trở đi;",,

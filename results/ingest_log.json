@@ -1,0 +1,30 @@
+{
+  "sources": [
+    {
+      "source_id": "blld-vbhn125-2025",
+      "physical_pages": 86,
+      "counted_pages": 85,
+      "excluded_pages": {
+        "86": "Trang cuối gồm phần đuôi chú thích hợp nhất và phần xác thực (nơi nhận, chữ ký Chủ nhiệm VPQH). Toàn bộ text trích ra bị lỗi font (vi_ratio = 0.00, ví dụ 'lao d{>ng ma Ban tr9ng tai'), không đọc được nên không tính; chưa OCR"
+      },
+      "flagged_counted_pages": [],
+      "known_issues": [
+        "Text layer tách sai khoảng trắng bên trong từ ở nhiều trang (ví dụ 'lao đ ộng', 'c ủa', 'vi ệc'). Xem cột split_words trong results/inspect_blld-vbhn125-2025.txt. Khi so khớp evidence cần chuẩn hóa (bỏ khoảng trắng) và ghi đây là giới hạn của dữ liệu.",
+        "Văn bản hợp nhất có chú thích cuối trang về căn cứ sửa đổi; chú thích này nằm lẫn vào text của trang."
+      ]
+    },
+    {
+      "source_id": "luat-bhxh-41-2024",
+      "physical_pages": 68,
+      "counted_pages": 68,
+      "excluded_pages": {},
+      "flagged_counted_pages": [],
+      "known_issues": [
+        "Trang 68 có phần chữ ký (Chủ tịch Quốc hội) ở cuối nhưng phần đầu trang vẫn là nội dung Điều về quy định chuyển tiếp nên trang vẫn được tính.",
+        "Trang 1 có quốc hiệu/tiêu ngữ trước nội dung Chương I."
+      ]
+    }
+  ],
+  "total_counted_pages": 153,
+  "load_seconds": 10.38
+}

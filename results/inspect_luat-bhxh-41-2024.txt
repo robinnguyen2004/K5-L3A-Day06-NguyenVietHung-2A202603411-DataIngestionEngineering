@@ -1,0 +1,70 @@
+luat-bhxh-41-2024.pdf: 68 trang vật lý
+page | chars | vi_ratio | split_words | chapter_heading | preview
+p  1 |  2046 | 0.30 |   0 | I       | QUỐC HỘI -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------
+p  2 |  2981 | 0.29 |   0 | -       | h) Vợ hoặc chồng không hưởng lương từ ngân sách nhà nước được cử đi công tác nhiệm kỳ cùng
+p  3 |  2893 | 0.31 |   0 | -       | 5. Người đồng thời thuộc nhiều đối tượng tham gia bảo hiểm xã hội bắt buộc khác nhau quy đ
+p  4 |  2836 | 0.30 |   0 | -       | gian đóng bảo hiểm xã hội còn thiếu tối đa 06 tháng quy định tại khoản 7 Điều 33 của Luật 
+p  5 |  2019 | 0.31 |   0 | -       | 12. Bản sao các giấy tờ dùng để thực hiện bảo hiểm xã hội quy định tại Luật này là giấy tờ
+p  6 |  2694 | 0.32 |   0 | -       | phần, các nhóm đối tượng thực hiện chế độ tiền lương do Nhà nước quy định và chế độ tiền l
+p  7 |  2575 | 0.30 |   0 | II      | 2. Khuyến khích hợp tác quốc tế trong việc tăng cường năng lực quản lý và tổ chức thực hiệ
+p  8 |  2869 | 0.31 |   0 | -       | d) Yêu cầu người sử dụng lao động và các cơ quan, tổ chức có liên quan thực hiện đầy đủ tr
+p  9 |  2618 | 0.31 |   0 | -       | a) Thực hiện các quy định về trình tự, thủ tục, quy định khác về hưởng chế độ bảo hiểm xã 
+p 10 |  2451 | 0.28 |   0 | -       | 9. Phối hợp, tạo điều kiện để cơ quan bảo hiểm xã hội thực hiện thu hồi số tiền bảo hiểm x
+p 11 |  2902 | 0.29 |   0 | -       | 6. Kiến nghị cơ quan nhà nước có thẩm quyền xử lý hành vi vi phạm pháp luật về bảo hiểm xã
+p 12 |  2730 | 0.30 |   0 | -       | tổ chức, cá nhân đối với việc thực hiện chính sách, pháp luật về bảo hiểm xã hội, bảo hiểm
+p 13 |  2682 | 0.30 |   0 | -       | 13. Định kỳ 05 năm, đánh giá và dự báo khả năng cân đối của quỹ hưu trí và tử tuất. 14. Cu
+p 14 |  2595 | 0.31 |   0 | III     | hiểm thất nghiệp, bảo hiểm y tế; giám sát, kiểm tra việc thực hiện của cơ quan bảo hiểm xã
+p 15 |  2989 | 0.32 |   0 | -       | Điều 22. Các chế độ, trình tự, thủ tục thực hiện trợ cấp hưu trí xã hội 1. Mức trợ cấp hưu
+p 16 |  2412 | 0.31 |   0 | IV      | 7. Chính phủ quy định chi tiết Điều này. Điều 24. Trình tự, thủ tục thực hiện chế độ đối v
+p 17 |  2767 | 0.29 |   0 | -       | Điều 27. Hồ sơ đăng ký tham gia bảo hiểm xã hội bắt buộc và bảo hiểm xã hội tự nguyện 1. H
+p 18 |  2923 | 0.30 |   0 | -       | 1. Cơ quan bảo hiểm xã hội chủ trì, phối hợp với cơ quan, tổ chức, cá nhân có liên quan tr
+p 19 |  2796 | 0.31 |   0 | -       | 1. Tỷ lệ đóng bảo hiểm xã hội bắt buộc bao gồm: a) 3% tiền lương làm căn cứ đóng bảo hiểm 
+p 20 |  3067 | 0.31 |   0 | -       | b) Đóng trực tiếp cho cơ quan bảo hiểm xã hội hoặc đóng qua hộ kinh doanh, doanh nghiệp, h
+p 21 |  2324 | 0.30 |   0 | -       | 4. Phương thức, thời hạn đóng bảo hiểm xã hội bắt buộc chậm nhất đối với người sử dụng lao
+p 22 |  2916 | 0.31 |   0 | -       | a) Trong tháng đối với phương thức đóng hằng tháng; b) Trong 03 tháng đối với phương thức 
+p 23 |  2720 | 0.31 |   0 | -       | 4. Thuộc trường hợp không bị coi là trốn đóng bảo hiểm xã hội bắt buộc, bảo hiểm thất nghi
+p 24 |  2521 | 0.29 |   0 | V       | 2. Xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luậ
+p 25 |  2835 | 0.32 |   0 | -       | b) Làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, ngu
+p 26 |  2684 | 0.32 |   0 | -       | c) Bằng 50% tiền lương làm căn cứ đóng bảo hiểm xã hội quy định tại khoản 1 Điều này nếu đ
+p 27 |  2520 | 0.30 |   0 | -       | 1. Hồ sơ đề nghị hưởng trợ cấp ốm đau đối với người lao động hoặc con của người lao động đ
+p 28 |  2618 | 0.28 |   0 | -       | 2. Trong thời hạn 07 ngày làm việc kể từ ngày nhận danh sách do người sử dụng lao động lập
+p 29 |  2841 | 0.27 |   0 | -       | 1. Thời gian nghỉ việc hưởng chế độ thai sản khi sảy thai, phá thai, thai chết trong tử cu
+p 30 |  2896 | 0.28 |   0 | -       | 5. Trường hợp chỉ có mẹ hoặc cả cha và mẹ đều tham gia bảo hiểm xã hội bắt buộc mà mẹ chết
+p 31 |  2941 | 0.29 |   0 | -       | Trường hợp trước thời điểm giao nếu đứa trẻ chết mà thời gian hưởng chế độ thai sản chưa đ
+p 32 |  2860 | 0.30 |   0 | -       | tránh thai trong tử cung và không quá 15 ngày đối với người lao động thực hiện biện pháp t
+p 33 |  2833 | 0.29 |   0 | -       | 3. Trợ cấp thai sản khi sinh con, nhận con khi nhờ mang thai hộ hoặc nhận nuôi con nuôi dư
+p 34 |  2709 | 0.25 |   0 | -       | a) Giấy tờ chứng minh quá trình điều trị vô sinh của lao động nữ trong trường hợp quy định
+p 35 |  3040 | 0.27 |   0 | -       | 5. Hồ sơ đề nghị nghỉ việc hưởng chế độ thai sản hoặc hưởng trợ cấp một lần đối với lao độ
+p 36 |  2677 | 0.29 |   0 | -       | chế độ thai sản kèm theo hồ sơ quy định tại Điều 61 của Luật này nộp cho cơ quan bảo hiểm 
+p 37 |  2970 | 0.31 |   0 | -       | a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi quy định tại khoản 2 Điều 169 của Bộ luật L
+p 38 |  2922 | 0.33 |   0 | -       | a) Đối với lao động nữ bằng 45% mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội q
+p 39 |  2629 | 0.33 |   0 | -       | bằng 02 lần của mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội quy định tại Điều
+p 40 |  2691 | 0.33 |   0 | -       | b) Người đang mắc một trong những bệnh ung thư, bại liệt, xơ gan mất bù, lao nặng, AIDS; c
+p 41 |  2840 | 0.31 |   0 | -       | bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội của số năm đóng bảo hiểm xã hội trước
+p 42 |  2676 | 0.31 |   0 | -       | b) Đối với người lao động bắt đầu tham gia bảo hiểm xã hội từ ngày 01 tháng 01 năm 2016 tr
+p 43 |  2737 | 0.32 |   0 | -       | 5. Người hưởng lương hưu hoặc trợ cấp bảo hiểm xã hội hằng tháng có thời gian chưa nhận lư
+p 44 |  2655 | 0.31 |   0 | -       | đồng giám định y khoa hoặc bản sao giấy xác nhận mức độ khuyết tật nặng, đặc biệt nặng có 
+p 45 |  2712 | 0.32 |   0 | -       | Điều 80. Hồ sơ đề nghị tiếp tục hưởng lương hưu, trợ cấp bảo hiểm xã hội hằng tháng trong 
+p 46 |  2789 | 0.30 |   0 | -       | a) Đối tượng quy định tại khoản 1 và khoản 2 Điều 2 của Luật này có thời gian đóng bảo hiể
+p 47 |  2710 | 0.31 |   0 | -       | bao gồm khoản trợ cấp theo quy định của pháp luật về ưu đãi người có công với cách mạng. 4
+p 48 |  2845 | 0.31 |   0 | -       | Điều 89. Mức trợ cấp tuất một lần 1. Mức trợ cấp tuất một lần đối với thân nhân của đối tư
+p 49 |  2708 | 0.30 |   0 | -       | đ) Biên bản giám định mức suy giảm khả năng lao động của Hội đồng giám định y khoa hoặc bả
+p 50 |  2671 | 0.30 |   0 | VI      | 2. Trường hợp nộp hồ sơ quá thời hạn quy định hoặc giải quyết hưởng chế độ bảo hiểm xã hội
+p 51 |  2478 | 0.30 |   0 | -       | 2. Ngân sách nhà nước bảo đảm thực hiện quy định tại khoản 1 Điều này. Chính phủ quyết địn
+p 52 |  2843 | 0.32 |   0 | -       | 2. Việc điều chỉnh lương hưu được thực hiện theo quy định tại Điều 67 của Luật này. 3. Việ
+p 53 |  2417 | 0.33 |   0 | -       | b) Ra nước ngoài để định cư; c) Người đang mắc một trong những bệnh ung thư, bại liệt, xơ 
+p 54 |  2719 | 0.32 |   0 | -       | 2. Thu nhập tháng đã đóng bảo hiểm xã hội để làm căn cứ tính mức bình quân thu nhập làm că
+p 55 |  2580 | 0.32 |   0 | -       | ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định đối với người đề nghị hưởng bảo hiểm 
+p 56 |  2767 | 0.32 |   0 | -       | b) Trường hợp chết từ tháng thứ ba trở đi thì cứ mỗi tháng mức trợ cấp tuất một lần giảm 0
+p 57 |  2697 | 0.32 |   0 | VII     | lợi ích hợp pháp của người thụ hưởng thì phải bồi thường theo quy định của pháp luật, trừ 
+p 58 |  2476 | 0.30 |   0 | -       | 1. Quỹ bảo hiểm xã hội là quỹ tài chính độc lập với ngân sách nhà nước; được hạch toán, kế
+p 59 |  2601 | 0.33 |   0 | -       | 4. Chi tổ chức và hoạt động bảo hiểm xã hội theo quy định tại Điều 120 của Luật này. 5. Đầ
+p 60 |  2331 | 0.31 |   0 | VIII    | hiện đầu tư quỹ bảo hiểm xã hội tại các ngân hàng thương mại đang được kiểm soát đặc biệt.
+p 61 |  2809 | 0.29 |   0 | IX      | 2. Hoàn thiện pháp luật và chính sách về bảo hiểm hưu trí bổ sung, tổ chức thực hiện chính
+p 62 |  2922 | 0.30 |   0 | -       | có thẩm quyền giải quyết khiếu nại lần đầu hoặc khởi kiện tại Tòa án theo quy định của phá
+p 63 |  2509 | 0.29 |   0 | X       | 3. Chủ tịch Ủy ban nhân dân cấp tỉnh có trách nhiệm giải quyết tố cáo đối với hành vi vi p
+p 64 |  2898 | 0.30 |   0 | -       | Điều 135. Trách nhiệm của Chính phủ 1. Thống nhất quản lý, chỉ đạo, bảo đảm sự phối hợp ch
+p 65 |  2571 | 0.28 |   0 | XI      | Điều 137. Trách nhiệm của Bộ Tài chính 1. Xây dựng, trình cấp có thẩm quyền ban hành hoặc 
+p 66 |  2726 | 0.30 |   0 | -       | “7. Chi tổ chức và hoạt động bảo hiểm tai nạn lao động, bệnh nghề nghiệp thực hiện theo qu
+p 67 |  3196 | 0.32 |   0 | -       | hưởng trợ cấp hằng tháng sau khi đã hết thời hạn hưởng trợ cấp mất sức lao động được điều 
+p 68 |  1180 | 0.31 |   0 | -       | 11. Đối tượng quy định tại điểm a, b, c, d, đ, g và i khoản 1 Điều 2 của Luật này đã tham 

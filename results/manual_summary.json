@@ -1,0 +1,77 @@
+{
+  "coherence": {
+    "A": {
+      "n": 10,
+      "mean_of_2": 0.7,
+      "count_0_1_2": [
+        3,
+        7,
+        0
+      ]
+    },
+    "B": {
+      "n": 10,
+      "mean_of_2": 1.8,
+      "count_0_1_2": [
+        0,
+        2,
+        8
+      ]
+    },
+    "C": {
+      "n": 10,
+      "mean_of_2": 1.8,
+      "count_0_1_2": [
+        0,
+        2,
+        8
+      ]
+    }
+  },
+  "grounding": {
+    "A": {
+      "n": 5,
+      "mean_of_2": 1.8,
+      "count_0_1_2": [
+        0,
+        1,
+        4
+      ]
+    },
+    "B": {
+      "n": 5,
+      "mean_of_2": 1.6,
+      "count_0_1_2": [
+        1,
+        0,
+        4
+      ]
+    },
+    "C": {
+      "n": 5,
+      "mean_of_2": 1.6,
+      "count_0_1_2": [
+        1,
+        0,
+        4
+      ]
+    }
+  },
+  "metadata": {
+    "A": {
+      "correct_records": "15/15",
+      "filter_compliance_top3": "1/2",
+      "errors": []
+    },
+    "B": {
+      "correct_records": "15/15",
+      "filter_compliance_top3": "0/2",
+      "errors": []
+    },
+    "C": {
+      "correct_records": "15/15",
+      "filter_compliance_top3": "2/2",
+      "errors": []
+    }
+  }
+}
